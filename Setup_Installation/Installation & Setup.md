@@ -30,6 +30,8 @@ The first step is to obtain the Metasploitable 2 virtual machine image. This is 
 
 This process sets up the VM using the provided virtual disk.
 
+The default login and password are both : msfadmin
+
 ### For Kali Linux
 We need to go to the official website of Kali Linux, and select the correct platform, for my, I will go for VirtualBox prebuilt image.
 
@@ -38,7 +40,11 @@ We need to go to the official website of Kali Linux, and select the correct plat
 #### VirtualBox
 When we have our image, on VirtualBox, we click on "Add" or "Open"
 
-<img src="../Image/VirtualBox_main_menu.png" alt="Virtualbox menu page" width="400" height="300">
+<img src="../Image/VirtualBox_main_menu.png" alt="Virtualbox menu page" width="500" height="300">
+
+We select our pre-build image of Kali and the machine is ready.
+
+The default login and password are both : kali
 
 
 
