@@ -20,4 +20,5 @@ The first step is to obtain the Metasploitable 2 virtual machine image. This is 
 ### For Kali Linux
 We need to go to the official website of Kali Linux, and select the correct platform, for my, I will go for VirtualBox prebuilt image.
 
-![Image]("C:\Users\Ilyes\Desktop\BTS CIEL 1ere Année\Projet\Lab Kali Linux Metasploitable 2\Image\Screenshot 2026-02-19 at 110248.png" "kali linux installation page")
+![kali linux installation page](Screenshot-2026-02-19-110248.png)
+
