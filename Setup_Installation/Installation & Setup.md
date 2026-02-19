@@ -35,12 +35,12 @@ The default login and password are both : msfadmin
 ### For Kali Linux
 We need to go to the official website of Kali Linux, and select the correct platform, for my, I will go for VirtualBox prebuilt image.
 
-<img src="../Image/Kali_installation_page.png" alt="kali linux installation page" width="400" height="300">
+<img src="../Image/Kali_installation_page.png" alt="kali linux installation page" width="700" height="500">
 
 #### VirtualBox
 When we have our image, on VirtualBox, we click on "Add" or "Open"
 
-<img src="../Image/VirtualBox_main_menu.png" alt="Virtualbox menu page" width="500" height="300">
+<img src="../Image/VirtualBox_main_menu.png" alt="Virtualbox menu page" width="700" height="500">
 
 We select our pre-build image of Kali and the machine is ready.
 
