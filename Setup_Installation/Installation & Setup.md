@@ -38,7 +38,7 @@ We need to go to the official website of Kali Linux, and select the correct plat
 #### VirtualBox
 When we have our image, on VirtualBox, we click on "Add" or "Open"
 
-<img src="C:\Users\Ilyes\Desktop\BTS CIEL 1ere Année\Projet\Lab Kali Linux Metasploitable 2\Image\VirtualBox_main_menu.png" alt="Virtualbox menu page" width="400" height="300">
+<img src="../Image/VirtualBox_main_menu.png" alt="Virtualbox menu page" width="400" height="300">
 
 
 
